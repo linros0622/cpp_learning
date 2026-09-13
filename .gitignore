@@ -1,0 +1,12 @@
+# 编译生成的可执行文件
+talker
+test
+inheritance_demo
+map_demo
+pointer_demo
+string_demo
+my_program
+
+# 系统文件
+.DS_Store
+*.o

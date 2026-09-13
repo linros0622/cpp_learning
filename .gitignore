@@ -10,3 +10,4 @@ my_program
 # 系统文件
 .DS_Store
 *.o
+packages.microsoft.gpg
